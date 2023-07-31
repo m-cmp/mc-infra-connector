@@ -80,7 +80,9 @@
 VM 인프라 | VM, Keypair, Disk, Snapshot 등
 Container 인프라 | Kubernetes
 스토리지/데이터 | FS, DBMS, MQ 등
-※ Notice: 자원 및 서비스 분류는 재정의 될 수 있음
+
+&nbsp;&nbsp;※ Notice: 자원 및 서비스의 분류는 재정의 될 수 있음
+
 <br>
 
 ---
