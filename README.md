@@ -112,7 +112,11 @@ Container 인프라 | Kubernetes
   - #### VM 인프라
   - #### 컨테이너 인프라(Kubernetes)
   - #### 세부 내용: https://github.com/cloud-barista/cb-spider/wiki/Supported-Compute-Infrastructure-Resources 
-- #### (2) 대상 클라우드: AWS(K8S 제외, 재안내 예정), Azure, Alibaba, Tencent
+- #### (2) 대상 클라우드
+  - #### AWS (Kubernetes 지원 제외, 재안내 예정)
+  - #### Azure
+  - #### Alibaba
+  - #### Tencent
 
 <br>
 
