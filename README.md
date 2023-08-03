@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-<img width=850 src="https://github.com/powerkimhub/mc-infra-connector/assets/46367962/b75b8d43-e983-434c-9fcb-8ecb2c13981c">
+<img width=850 src="https://github.com/m-cmp/mc-infra-connector/assets/46367962/3fb7ccba-9a0b-49d6-8838-e5ab3e0a9eac">
 <br>
 </p>
 
@@ -43,7 +43,7 @@
 <br>
 
 <p align="center">
-<img width=400 src="https://github.com/powerkimhub/mc-infra-connector/assets/46367962/49f1be34-6e4f-4dc8-b7da-0913b30aa163">
+<img width=400 src="https://github.com/m-cmp/mc-infra-connector/assets/46367962/f472d549-3864-4132-90c6-0eaef61d093e">
 <br>
 </p>
 
