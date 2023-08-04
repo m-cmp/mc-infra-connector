@@ -31,6 +31,15 @@
   - #### REST API, CLI, Web 제공
 - #### 멀티 클라우드 연결 정보 통합 등록 및 관리 제공
   - #### 클라우드 드라이버 정보, 크리덴셜 정보 등
+
+<br>
+
+<p align="center">
+<img width=400 src="https://github.com/m-cmp/mc-infra-connector/assets/46367962/f472d549-3864-4132-90c6-0eaef61d093e">
+<br>
+<b><멀티 클라우드 동적 연동 프레임워크 제공 정보 및 인프라 개요></b>
+</p>
+
 - #### 멀티 클라우드 카달로그 정보 제공
   - #### 프레임크가 제공하는 자원 및 서비스의 카달로그 정보
   - #### VPC, VM, MariaDB 등 사용 가능한 서비스 정보
@@ -53,46 +62,40 @@
 
 <br>
 
-<p align="center">
-<img width=400 src="https://github.com/m-cmp/mc-infra-connector/assets/46367962/f472d549-3864-4132-90c6-0eaef61d093e">
-<br>
-</p>
-
-<br>
-
-
 ### [대상 클라우드 후보]
 
-  | CSP
--- | --
-1 | AWS
-2 | GCP
-3 | Alibaba
-4 | Tencent
-5 | Azure
-6 | VMWare or Kakao
-7 | OpenStack
-8 | NCP Classic, NCP VPC
-9 | NHN
-10 | KT Classic, KT VPC
-11 | IBM-VPC (추후   결정)
+- 목록
+    | CSP
+  -- | --
+  1 | AWS
+  2 | GCP
+  3 | Alibaba
+  4 | Tencent
+  5 | Azure
+  6 | VMWare or Kakao
+  7 | OpenStack
+  8 | NCP Classic, NCP VPC
+  9 | NHN
+  10 | KT Classic, KT VPC
+  11 | IBM-VPC (추후   결정)
 
 <br>
 
 ### [대상 자원/서비스 후보]
 
+- 목록
 
-분류 | 자원 및 서비스
--- | --
-카달로그 정보 | M-CMP Service Catalog
-메타 정보 | Public Image, VM Spec, Price 등
-운영지원정보 | Monitoring, Evnet/Alarm, Cost 등
-네트워크 | VPC/Subnet, Security Group, Public IP, Gateway, VPN, NLB, ALB 등
-VM 인프라 | VM, Keypair, Disk, Snapshot 등
-Container 인프라 | Kubernetes
-스토리지/데이터 | FS, DBMS, MQ 등
-
-&nbsp;&nbsp;※ Notice: 자원 및 서비스의 분류는 재정의 될 수 있음
+  분류 | 자원 및 서비스
+  -- | --
+  카달로그 정보 | M-CMP Service Catalog
+  메타 정보 | Public Image, VM Spec, Price 등
+  운영지원정보 | Monitoring, Evnet/Alarm, Cost 등
+  네트워크 | VPC/Subnet, Security Group, Public IP, Gateway, VPN, NLB, ALB 등
+  VM 인프라 | VM, Keypair, Disk, Snapshot 등
+  Container 인프라 | Kubernetes
+  스토리지/데이터 | FS, DBMS, MQ 등
+  
+  &nbsp;&nbsp;※ Notice: 자원 및 서비스의 분류는 재정의 될 수 있음
 
 <br>
 
