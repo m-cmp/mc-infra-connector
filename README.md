@@ -90,6 +90,7 @@
   카달로그 정보 | M-CMP Service Catalog
   메타 정보 | Public Image, VM Spec, Price 등
   운영지원정보 | Monitoring, Evnet/Alarm, Cost 등
+  계정/권한 | CSP 계정 및 권한 관리 등
   네트워크 | VPC/Subnet, Security Group, Public IP, Gateway, VPN, NLB, ALB 등
   VM 인프라 | VM, Keypair, Disk, Snapshot 등
   Container 인프라 | Kubernetes
