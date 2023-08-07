@@ -118,7 +118,7 @@
 ### 2. 배포 버전
 - #### (1) CB-Spider v0.7.5(https://github.com/cloud-barista/cb-spider/releases/tag/v0.7.5)
 - #### (2) 기존 CB-Spider 대비 기능 및 API 추가/변경 없음(추후 변경 예정)
-- #### (3) Meta 정보 관리 방법 변경 없음(현재 RDB-SQLite로 변경 진행중, 마무리 안된 상태)
+- #### (3) CB-Spider Meta 정보 관리 방법 변경 없음(현재 RDB-SQLite로 변경 진행중, 마무리 안된 상태)
 
 <br>
 
