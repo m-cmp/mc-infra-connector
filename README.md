@@ -128,10 +128,9 @@
   - #### 컨테이너 인프라(Kubernetes)
   - #### 세부 내용: https://github.com/cloud-barista/cb-spider/wiki/Supported-Compute-Infrastructure-Resources 
 - #### (2) 대상 클라우드
-  - #### AWS (Kubernetes 지원 제외, 재안내 예정)
+  - #### AWS (Kubernetes 지원 제외)
   - #### Azure
   - #### Alibaba
-  - #### Tencent
 
 <br>
 
