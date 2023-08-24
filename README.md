@@ -137,6 +137,9 @@
 
 ### 4. 설치 및 활용 가이드
 - #### (1) 활용 대상 버전: [CB-Spider v0.75](https://github.com/cloud-barista/cb-spider/releases/tag/v0.7.5)
+    ```
+    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.7.5
+    ```
 - #### (2) 설치 및 활용 방법: CB-Spider Readme 및 Wiki 참고
   - #### CB-Spider Readme: https://github.com/cloud-barista/cb-spider/tree/v0.7.5
   - #### CB-Spider Wiki: https://github.com/cloud-barista/cb-spider/wiki
