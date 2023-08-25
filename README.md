@@ -142,4 +142,3 @@
 - #### (2) 설치 및 활용 방법: CB-Spider Readme 및 Wiki 참고
   - #### CB-Spider Readme: https://github.com/cloud-barista/cb-spider/tree/v0.7.5
   - #### CB-Spider Wiki: https://github.com/cloud-barista/cb-spider/wiki
-- #### (3) 조만간 사용자 활용 교육 예정
