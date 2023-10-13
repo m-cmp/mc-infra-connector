@@ -7,6 +7,7 @@
 - #### 개발방안: Cloud-Barista 플랫폼의 CB-Spider 프레임워크 기반 CMP 기능 확장 및 개선
   - #### Cloud-Barista: 멀티 클라우드 서비스 공통 플랫폼 (https://cloud-barista.github.io)
 - #### 개발위치: CB-Spider (https://github.com/cloud-barista/cb-spider)
+- #### 버전관리: CB-Spider 버전 준수
 
 <br>
 
@@ -72,12 +73,14 @@
   3 | Alibaba
   4 | Tencent
   5 | Azure
-  6 | VMWare or Kakao
+  6 | IBM VPC
   7 | OpenStack
-  8 | NCP Classic, NCP VPC
-  9 | NHN
-  10 | KT Classic, KT VPC
-  11 | IBM-VPC (추후   결정)
+  8 | NCP Classic
+  9 | NCP VPC
+  10 | NHN
+  11 | KT Classic
+  12 | KT VPC
+  
 
 <br>
 
@@ -100,45 +103,28 @@
 
 <br>
 
----
-
-## Early 배포 안내
-
-<br>
-
-
-### 1. 배포 목적
-- #### (1) 보유 기술 활용한 빠른 개발/배포 => 상위 프레임워크 조기 활용 및 원활한 통합 지원 고려
-- #### (2) 타프레임워크 대상: ‘멀티 클라우드 동적 연동 프레임워크’ 개념 및 제공 기능 이해
-  - #### 직접 활용 보다, 주로 ‘멀티 클라우드 인프라 통합 관리 프레임워크’의 API 통한 활용이 예상됨
-  - #### 직접 활용 API: 필요시 추후 공유 예정
-
-<br>
-
-### 2. 배포 버전
-- #### (1) CB-Spider v0.7.5(https://github.com/cloud-barista/cb-spider/releases/tag/v0.7.5)
-- #### (2) 기존 CB-Spider 대비 기능 및 API 추가/변경 없음(추후 변경 예정)
-- #### (3) CB-Spider Meta 정보 관리 방법 변경 없음(현재 RDB-SQLite로 변경 진행중, 마무리 안된 상태)
-
-<br>
-
-### 3. 지원 대상
-- #### (1) 대상 자원/서비스
-  - #### VM 인프라
-  - #### 컨테이너 인프라(Kubernetes)
-  - #### 세부 내용: https://github.com/cloud-barista/cb-spider/wiki/Supported-Compute-Infrastructure-Resources 
-- #### (2) 대상 클라우드
-  - #### AWS (Kubernetes 지원 제외)
-  - #### Azure
-  - #### Alibaba
-
-<br>
-
-### 4. 설치 및 활용 가이드
-- #### (1) 활용 대상 버전: [CB-Spider v0.75](https://github.com/cloud-barista/cb-spider/releases/tag/v0.7.5)
+### [소스 다운로드 방법]
+- #### 현 저장소에서 받는 방법
+  - 최신 소스 받기
     ```
-    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.7.5
+    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git
     ```
-- #### (2) 설치 및 활용 방법: CB-Spider Readme 및 Wiki 참고
-  - #### CB-Spider Readme: https://github.com/cloud-barista/cb-spider/tree/v0.7.5
-  - #### CB-Spider Wiki: https://github.com/cloud-barista/cb-spider/wiki
+  - 태깅 소스 받기
+    ```
+    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.7.6
+    ```
+- #### CB-Spider 저장소에서 받는 방법
+  - 최신 소스 받기
+    ```
+    git clone https://github.com/cloud-barista/cb-spider.git
+    ```
+  - 태깅 소스 받기
+    ```
+    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.7.6
+    ```
+
+### [설치 및 활용 가이드]
+- #### 설치 방법  
+  - #### CB-Spider Readme 참고: https://github.com/cloud-barista/cb-spider
+- #### 활용 가이드
+  - #### CB-Spider Wiki 참고: https://github.com/cloud-barista/cb-spider/wiki 
