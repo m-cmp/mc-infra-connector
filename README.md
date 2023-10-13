@@ -7,7 +7,6 @@
 - #### 개발방안: Cloud-Barista 플랫폼의 CB-Spider 프레임워크 기반 CMP 기능 확장 및 개선
   - #### Cloud-Barista: 멀티 클라우드 서비스 공통 플랫폼 (https://cloud-barista.github.io)
 - #### 개발위치: CB-Spider (https://github.com/cloud-barista/cb-spider)
-- #### 버전관리: CB-Spider 버전 준수
 
 <br>
 
@@ -111,7 +110,7 @@
     ```
   - 태깅 소스 받기
     ```
-    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.7.6
+    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.0.2
     ```
 - #### CB-Spider 저장소에서 받는 방법
   - 최신 소스 받기
