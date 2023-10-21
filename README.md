@@ -1,5 +1,11 @@
-# 멀티 클라우드 동적 연동 프레임워크
 
+The mc-infra-connector, based on [Cloud-Barista's CB-Spider](https://github.com/cloud-barista/cb-spider), is a dynamic multi-cloud integration framework
+that offers unified APIs to connect and control multi-cloud resources and services dynamically.
+
+
+---
+
+# 멀티 클라우드 동적 연동 프레임워크
 
 ### [명칭/개발방안]
 - #### 공식명칭: 멀티 클라우드 동적 연동 프레임워크
