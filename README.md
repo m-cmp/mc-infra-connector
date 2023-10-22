@@ -1,7 +1,12 @@
+# mc-infra-connector
 
-The mc-infra-connector, based on [Cloud-Barista's CB-Spider](https://github.com/cloud-barista/cb-spider), is a dynamic multi-cloud integration framework
+[![GoDoc](https://godoc.org/github.com/m-cmp/mc-infra-connector?status.svg)](https://pkg.go.dev/github.com/m-cmp/mc-infra-connector@master)&nbsp;&nbsp;&nbsp;
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/m-cmp/mc-infra-connector/blob/master/LICENSE)
+
+
+The mc-infra-connector, based on [Cloud-Barista's CB-Spider](https://github.com/cloud-barista/cb-spider), 
+<br> is a dynamic multi-cloud integration framework
 that offers unified APIs to connect and control multi-cloud resources and services dynamically.
-
 
 ---
 
