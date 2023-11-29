@@ -121,7 +121,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
     ```
   - 태깅 소스 받기
     ```
-    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.0.3
+    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.1
     ```
 - #### CB-Spider 저장소에서 받는 방법
   - 최신 소스 받기
@@ -130,7 +130,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
     ```
   - 태깅 소스 받기
     ```
-    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.7.7
+    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.7.8
     ```
 
 <br>
