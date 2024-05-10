@@ -59,10 +59,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
   - #### Public 이미지 정보, VM Spec 정보, 가격 정보 등
 - #### 멀티 클라우드 운영 지원 정보 제공
   - #### 자원 및 서비스 운영을 위해 필요한 정보
-  - #### 비용 정보, 모니터링 정보, 이벤트 정보 등
-- #### 멀티 클라우드 계정/권한 제어
-  - #### CSP 계정 및 권한 관리 등
-  - #### ※ CSP API 제공 여부, 보안 이슈 등으로 지원 여부 미확정
+  - #### 모니터링 정보, 이벤트 정보 등
 - #### 멀티 클라우드 네트워크 및 스토리지/데이터 관련 자원 생성 및 제어
 - #### 멀티 클라우드 가상 머신 인프라 생성 및 제어
 - #### 멀티 클라우드 컨테이너 인프라(Kubernetes) 생성 및 제어
@@ -102,8 +99,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
   -- | --
   카달로그 정보 | M-CMP Service Catalog
   메타 정보 | Public Image, VM Spec, Price 등
-  운영지원정보 | Monitoring, Evnet/Alarm, Cost 등
-  계정/권한 | CSP 계정 및 권한 관리 등
+  운영지원정보 | Monitoring, Evnet/Alarm 등
   네트워크 | VPC/Subnet, Security Group, Public IP, Gateway, VPN, NLB, ALB 등
   VM 인프라 | VM, Keypair, Disk, Snapshot 등
   Container 인프라 | Kubernetes
