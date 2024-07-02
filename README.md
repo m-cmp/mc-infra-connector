@@ -46,7 +46,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
 <br>
 
 <p align="center">
-<img width=400 src="https://github.com/m-cmp/mc-infra-connector/assets/46367962/f472d549-3864-4132-90c6-0eaef61d093e">
+<img width=500 src="https://github.com/m-cmp/mc-infra-connector/assets/46367962/fb37d27e-51fc-4112-b0bd-69d51aa1cc8d">
 <br>
 <b><멀티 클라우드 동적 연동 프레임워크 제공 정보 및 인프라 개요></b>
 </p>
