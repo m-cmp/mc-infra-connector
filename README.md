@@ -99,8 +99,8 @@ that offers unified APIs to connect and control multi-cloud resources and servic
   -- | --
   카달로그 정보 | M-CMP Service Catalog
   메타 정보 | Public Image, VM Spec, Price 등
-  운영지원정보 | Monitoring, Evnet/Alarm 등
-  네트워크 | VPC/Subnet, Security Group, Public IP, Gateway, VPN, NLB, ALB 등
+  운영지원정보 | Monitoring, Event/Alarm 등
+  네트워크 | VPC/Subnet, Security Group, Public IP, NLB 등
   VM 인프라 | VM, Keypair, Disk, Snapshot 등
   Container 인프라 | Kubernetes
   스토리지/데이터 | FS, DBMS, MQ 등
@@ -126,7 +126,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
     ```
   - 태깅 소스 받기
     ```
-    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.7.8
+    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.9.7
     ```
 
 <br>
