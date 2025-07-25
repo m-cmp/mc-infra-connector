@@ -56,7 +56,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
   - #### VPC, VM, MariaDB 등 사용 가능한 서비스 정보
 - #### 멀티 클라우드 메타 정보 제공
   - #### 자원 및 서비스 요청을 위해 필요한 정보
-  - #### Public 이미지 정보, VM Spec 정보, 가격 정보 등
+  - #### VM 이미지 정보, VM Spec 정보, VM 가격 정보 등
 - #### 멀티 클라우드 운영 지원 정보 제공
   - #### 자원 및 서비스 운영을 위해 필요한 정보
   - #### 모니터링 정보, 이벤트 정보 등
@@ -81,12 +81,10 @@ that offers unified APIs to connect and control multi-cloud resources and servic
   4 | Tencent
   5 | Azure
   6 | IBM VPC
-  7 | OpenStack
-  8 | NCP Classic
-  9 | NCP VPC
-  10 | NHN
-  11 | KT Classic
-  12 | KT VPC
+  7 | OpenStack  
+  8 | NCP VPC
+  9 | NHN  
+  10 | KT VPC
   
 
 <br>
@@ -117,7 +115,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
     ```
   - 태깅 소스 받기
     ```
-    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.1.0
+    git clone --recursive https://github.com/m-cmp/mc-infra-connector.git --branch v0.4.0
     ```
 - #### CB-Spider 저장소에서 받는 방법
   - 최신 소스 받기
@@ -126,7 +124,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
     ```
   - 태깅 소스 받기
     ```
-    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.9.7
+    git clone https://github.com/cloud-barista/cb-spider.git --branch v0.11.2
     ```
 
 <br>
