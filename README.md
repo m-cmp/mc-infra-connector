@@ -76,15 +76,15 @@ that offers unified APIs to connect and control multi-cloud resources and servic
     | CSP
   -- | --
   1 | AWS
-  2 | GCP
-  3 | Alibaba
-  4 | Tencent
-  5 | Azure
-  6 | IBM VPC
+  2 | Azure
+  3 | GCP  
+  4 | Alibaba
+  5 | Tencent
+  6 | IBM
   7 | OpenStack  
-  8 | NCP VPC
+  8 | NCP
   9 | NHN  
-  10 | KT VPC
+  10 | KT
   
 
 <br>
@@ -101,7 +101,7 @@ that offers unified APIs to connect and control multi-cloud resources and servic
   네트워크 | VPC/Subnet, Security Group, Public IP, NLB 등
   VM 인프라 | VM, Keypair, Disk, Snapshot 등
   Container 인프라 | Kubernetes
-  스토리지/데이터 | FS, DBMS, MQ 등
+  스토리지/데이터 | FS, DBMS 등
   
   &nbsp;&nbsp;※ Notice: 자원 및 서비스의 분류는 재정의 될 수 있음
 
